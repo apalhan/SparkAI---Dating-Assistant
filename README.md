@@ -6,13 +6,13 @@ Here’s a draft for a privacy policy page for your dating app. This privacy pol
 
 ## Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [10/19/2024]
 
-Welcome to [App Name] (“we,” “our,” or “us”). This Privacy Policy explains how we collect, use, and protect your personal information when you use our dating app (the "App"). We are committed to safeguarding your privacy and ensuring compliance with all relevant privacy laws, including Apple's iOS guidelines and intellectual property laws.
+Welcome to [SparkAI] (“we,” “our,” or “us”). This Privacy Policy explains how we collect, use, and protect your personal information when you use our dating app (the "App"). We are committed to safeguarding your privacy and ensuring compliance with all relevant privacy laws, including Apple's iOS guidelines and intellectual property laws.
 
 ### 1. **Information We Collect**
 
-When you use [App Name], we may collect the following types of personal data:
+When you use [SparkAI], we may collect the following types of personal data:
 
 - **Image Data:** The App requires users to upload a photo. This image is processed to generate a customized interaction (“rizz response”) based on visual features. We do not store the image beyond the necessary period to complete this functionality.
 - **Profile Data:** You may provide additional information, such as your name, age, gender, and location, to personalize your experience on the App.
@@ -40,7 +40,7 @@ We will not sell, lease, or share your personal information with third parties, 
 
 ### 5. **User Consent and Data Control**
 
-By using the App, you consent to the collection, use, and processing of your data as outlined in this Privacy Policy. You may withdraw your consent at any time by deleting the App or contacting us at [Support Email].
+By using the App, you consent to the collection, use, and processing of your data as outlined in this Privacy Policy. You may withdraw your consent at any time by deleting the App or contacting us at [SparkAI@gmail.com].
 
 ### 6. **Intellectual Property Compliance**
 
@@ -54,7 +54,7 @@ We use encryption and other appropriate security measures to protect your data. 
 
 ### 8. **Apple's Guidelines and Compliance**
 
-[App Name] complies with all of Apple’s App Store Guidelines, including:
+[SparkAI] complies with all of Apple’s App Store Guidelines, including:
 
 - **User Data Collection:** We collect only the necessary information to provide the App’s core functionalities, and we give users control over their data.
 - **Third-Party Access:** We do not share user data with third parties unless explicitly stated in this policy or required by law.
@@ -67,7 +67,7 @@ You have the right to:
 - **Withdraw consent** for data collection at any time.
 - **Complain** to a data protection authority if you feel your privacy rights have been violated.
 
-To exercise your rights, contact us at [Support Email].
+To exercise your rights, contact us at [SparkAI@gmail.com].
 
 ### 10. **Changes to the Privacy Policy**
 
@@ -77,10 +77,10 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 **Contact Us**
 
-If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact us at [Support Email].
+If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact us at [SparkAI@gmail.com].
 
-**[App Name]**
-[App Website]
+**[SparkAI]**
+[SparkAI.org]
 
 ---
 
